@@ -80,7 +80,23 @@ namespace CoreEFCodeFirst.Controllers
             }
         }
 
-        public ActionResult GetUSer()
+        public ActionResult getuser()
+        {
+
+            return View();
+        }
+
+        public ActionResult GetUSer1()
+        {
+            return View();
+        }
+
+        public ActionResult GetMembers()
+        {
+            return View();
+        }
+
+        public ActionResult GetWorker()
         {
             return View();
         }
