@@ -90,5 +90,10 @@ namespace CoreEFCodeFirst.Controllers
         {
             return View();
         }
+
+        public ActionResult GetMembers()
+        {
+            return View();
+        }
     }
 }
