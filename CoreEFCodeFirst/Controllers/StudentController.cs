@@ -95,5 +95,10 @@ namespace CoreEFCodeFirst.Controllers
         {
             return View();
         }
+
+        public ActionResult GetWorker()
+        {
+            return View();
+        }
     }
 }
