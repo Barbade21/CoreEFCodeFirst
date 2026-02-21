@@ -82,6 +82,7 @@ namespace CoreEFCodeFirst.Controllers
 
         public ActionResult getuser()
         {
+
             return View();
         }
     }
