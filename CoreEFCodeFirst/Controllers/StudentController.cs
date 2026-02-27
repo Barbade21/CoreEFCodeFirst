@@ -100,5 +100,11 @@ namespace CoreEFCodeFirst.Controllers
         {
             return View();
         }
+
+        public ActionResult GetSecretary()
+        {
+
+            return View();
+         }
     }
 }
